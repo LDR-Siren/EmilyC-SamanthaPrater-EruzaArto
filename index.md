@@ -4,34 +4,14 @@ Here you will find the collaborative efforts of many individuals spanning 3 year
 
 She also goes by the name DefyingGravityAgain, EruzaArto, Emily N. Cassidy, ENC, and many other names. You can find this in: [Aliases here](https://github.com/LDR-Siren/EmilyC-SamanthaPrater-EruzaArto/tree/main/ALIASES)
 
-### Markdown
+## Privacy Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Copyright © 2021 by LDR-Siren
 
-```markdown
-Syntax highlighted code block
+All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the creator, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, please contact the creator of this repository, **
 
-# Header 1
-## Header 2
-### Header 3
+*In laymans terms: No she may not copy this repository and use it without my permission, as I am LDR-Siren. I do not give, nor will I ever give her permission to use this.*
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LDR-Siren/EmilyC-SamanthaPrater-EruzaArto/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For Contact information you may refer to this page or my other given social medias to contact me.
