@@ -18,7 +18,7 @@ For Contact information you may refer to this page or go to the [Trollorist Foru
 
 #### Repository Information
 
-**Here is the information for the Repository in its entirety [Repo](https://github.com/LDR-Siren/EmilyC-SamanthaPrater-EruzaArto). 
+**Here is the information for the Repository in its entirety [Repo](https://github.com/LDR-Siren/EmilyC-SamanthaPrater-EruzaArto). **
 
 The easiest way to get through this is to click on the title of the file you are wanting to go through and just start looking. There is currently over 30K worth of images, video's and audio files in this repository pertaining to this individual. If you are looking to download this please contact me via this website or find me on the [Trollorist Forum](https://trollorist.forumotion.com) under the name Liyah. You can PM there. 
 
