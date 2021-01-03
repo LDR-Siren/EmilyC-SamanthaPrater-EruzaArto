@@ -1,8 +1,8 @@
 ## Welcome to the Repository of LDR-Siren 
 
-You can use the [editor on GitHub](https://github.com/LDR-Siren/EmilyC-SamanthaPrater-EruzaArto/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you will find the collaborative efforts of many individuals spanning 3 years and going, who have come together to screen grab, testify, and support one another against the individual known to many as SamanthaPrater Resident in Secondlife. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+She also goes by the name DefyingGravityAgain, EruzaArto, Emily N. Cassidy, ENC, and many other names. You can find this in [Link]https://github.com/LDR-Siren/EmilyC-SamanthaPrater-EruzaArto/tree/main/ALIASES
 
 ### Markdown
 
