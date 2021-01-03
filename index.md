@@ -2,7 +2,7 @@
 
 Here you will find the collaborative efforts of many individuals spanning 3 years and going, who have come together to screen grab, testify, and support one another against the individual known to many as SamanthaPrater Resident in Secondlife. 
 
-She also goes by the name DefyingGravityAgain, EruzaArto, Emily N. Cassidy, ENC, and many other names. You can find this in .[Link](https://github.com/LDR-Siren/EmilyC-SamanthaPrater-EruzaArto/tree/main/ALIASES)
+She also goes by the name DefyingGravityAgain, EruzaArto, Emily N. Cassidy, ENC, and many other names. You can find this in: [Aliases here](https://github.com/LDR-Siren/EmilyC-SamanthaPrater-EruzaArto/tree/main/ALIASES)
 
 ### Markdown
 
